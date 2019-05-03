@@ -1,1 +1,1 @@
-var playlist = {Slowdive: "Alison", My Bloody Valentine: "Sometimes"};
+var playlist = new Object ({Slowdive: "Alison", My Bloody Valentine: "Sometimes"}); 
